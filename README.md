@@ -8,7 +8,7 @@
 
 <h3> <img src="https://i.imgur.com/ZOKp8LH.jpg" width="25" height="25">: Meu servidor no discord </h3>
 
-- <img alt="Discord" width="25" height="25" src="https://img.shields.io/discord/801504207797747732?logo=Axolote%20Code%20Server">
+- <img alt="Discord" width="125" height="25" src="https://img.shields.io/discord/801504207797747732?logo=Axolote%20Code%20Server">
 
 <h3>:atom: Competências Técnicas: </h3>
 
