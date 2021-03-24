@@ -1,16 +1,21 @@
-### Hi there 👋
+<h2> Oi gente, eu sou o <strong>Pedro Nicolas</strong>. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
-<!--
-**pedronicolasg/pedronicolasg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> :man_office_worker: 💻 Quem sou eu: </h3>
 
-Here are some ideas to get you started:
+- :books: &nbsp; <strong>Programador</strong>
+- 🎓 &nbsp; <strong>Udemy</strong>
+- :computer: &nbsp; <strong>React.js</strong>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>:atom: Competências Técnicas: </h3>
+
+- 💻 &nbsp; <strong>Csharp, Java Script</strong>
+- 🌐 &nbsp; <strong>Web e Backend</strong>
+- 🔧 &nbsp; <strong>VS Code, Visual Studio e Raspy Studio</strong>
+ 
+
+</br>
+<div align="center">
+<a href="https://github-readme-stats.anuraghazra1.vercel.app/api?username=pedronicolasg"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=pedronicolasg&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats"/>
+</a>
+</div>
+
