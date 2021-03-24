@@ -6,7 +6,7 @@
 - 🎓 &nbsp; <strong>Udemy</strong>
 - :computer: &nbsp; <strong>React.js</strong>
 
-<h3> <img src="https://i.imgur.com/ZOKp8LH.jpg">: Meu servidor no discord </h3>
+<h3> <img src="https://i.imgur.com/ZOKp8LH.jpg" width="25" height="25">: Meu servidor no discord </h3>
 
 - :computer: https://img.shields.io/discord/801504207797747732?logo=Axolote%20Code%20Server
 
