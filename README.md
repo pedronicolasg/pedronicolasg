@@ -14,7 +14,7 @@
 
 - 💻 &nbsp; <strong>Csharp, Java Script</strong>
 - 🌐 &nbsp; <strong>Web e Backend</strong>
-- 🔧 &nbsp; <strong>VS Code, Visual Studio e Raspy Studio</strong>
+- 🔧 &nbsp; <strong>VS Code e Visual Studio</strong>
  
 
 </br>
