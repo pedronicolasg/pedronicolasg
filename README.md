@@ -1,4 +1,4 @@
-<h2> Oi gente, eu sou o <strong>Pedro Nicolas</strong>. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h2> Olá, meu nome é <strong>Pedro Nicolas</strong>. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
 <h3> :man_office_worker: 💻 Quem sou eu: </h3>
 
