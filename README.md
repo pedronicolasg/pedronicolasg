@@ -12,7 +12,7 @@
 
 <h3>:atom: Competências Técnicas: </h3>
 
-- 💻 &nbsp; <strong>Csharp, Java Script</strong>
+- 💻 &nbsp; <strong>Csharp, Java Script HTML CSS, NodeJS e python</strong>
 - 🌐 &nbsp; <strong>Web e Backend</strong>
 - 🔧 &nbsp; <strong>VS Code e Visual Studio</strong>
  
