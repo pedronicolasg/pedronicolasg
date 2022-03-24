@@ -4,7 +4,7 @@
   <row>
     <td>
 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=pedronicolasg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <a href="https://github-readme-stats.anuraghazra1.vercel.app/api?username=pedronicolasg"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=pedronicolasg&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats"/>
    </td>
    <td>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedronicolasg&layout=compact&langs_count=7&theme=dracula"/>
@@ -30,8 +30,3 @@
  
 
 </br>
-<div align="center">
-<a href="https://github-readme-stats.anuraghazra1.vercel.app/api?username=pedronicolasg"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=pedronicolasg&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats"/>
-</a>
-</div>
-
