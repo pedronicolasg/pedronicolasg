@@ -1,5 +1,17 @@
 <h2> Olá, meu nome é <strong>Pedro Nicolas</strong>. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
+<table align="center">
+  <row>
+    <td>
+
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=santosl2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   </td>
+   <td>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santosl2&layout=compact&langs_count=7&theme=dracula"/>
+   </td>
+    </row>
+</table>
+
 <h3> :man_office_worker: 💻 Quem sou eu: </h3>
 
 - :books: &nbsp; <strong>Programador</strong>
