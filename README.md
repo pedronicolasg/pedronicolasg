@@ -16,7 +16,6 @@
 
 - :books: &nbsp; <strong>Programador</strong>
 - 🎓 &nbsp; <strong>Udemy</strong>
-- :computer: &nbsp; <strong>React.js</strong>
 
 <h3> <img src="https://i.imgur.com/ZOKp8LH.jpg" width="25" height="25">: Meu servidor no discord </h3>
 
