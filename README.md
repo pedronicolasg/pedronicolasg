@@ -9,7 +9,7 @@
 
 - 💬 Pergunte-me sobre **JavaScript, NodeJS and Csharp.**
 
-- 📫 Como entrar em contato comigo **nicolaspipoca10@gmail.com**
+- 📫 Como entrar em contato comigo **nicolasdevcontato@gmail.com**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
