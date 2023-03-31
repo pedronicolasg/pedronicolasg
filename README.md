@@ -3,7 +3,6 @@
     <h1 align="center">Olá 👋, eu sou o Nícolas!</h1>
     <h3 align="center">Um jovem programador em aprendizado.</h3>
     <p align="center">
-    <a align="center"> <img src="https://komarev.com/ghpvc/?username=pedronicolasg&color=000000&style=flat-square" /> </a> <br>
     <a href="https://instagram.com/pedronicolasg"><img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" /></a>
     <a href="https://www.youtube.com/@NicolasDEV"><img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=black" /></a>
     <a href="https://www.twitch.tv/pedronicolasg"><img src="https://img.shields.io/badge/twitch-%2312100E.svg?&style=for-the-badge&logo=twitch&logoColor=white&color=black" /></a>
@@ -15,6 +14,7 @@
 <p align="center">
 <a href="https://github.com/pedronicolasg">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=pedronicolasg&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"><br>
+    <img src="https://komarev.com/ghpvc/?username=pedronicolasg&color=000000&style=flat-square" /><br>
     <img align="center" src="https://github-profile-trophy.vercel.app/?username=pedronicolasg&theme=onestar&no-frame=true&no-bg=true" />
 </a>
 </p>
