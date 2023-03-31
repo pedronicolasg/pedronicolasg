@@ -1,13 +1,15 @@
 <p align="center">
     <img src="https://github.com/pedronicolasg/pedronicolasg/blob/main/img/topbanner.png?raw=true" />
     <h1 align="center">Olá 👋, eu sou o Nícolas!</h1>
+    <h3 align="center">Um jovem programador em aprendizado.</h3>
     <p align="center">
+    <a align="center"> <img src="https://komarev.com/ghpvc/?username=pedronicolasg&color=000000&style=flat-square" /> </a> <br>
     <a href="https://instagram.com/pedronicolasg"><img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" /></a>
     <a href="https://www.youtube.com/@NicolasDEV"><img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=black" /></a>
     <a href="https://www.twitch.tv/pedronicolasg"><img src="https://img.shields.io/badge/twitch-%2312100E.svg?&style=for-the-badge&logo=twitch&logoColor=white&color=black" /></a>
     <a href="https://discord.gg/NugmkDfvuj"><img src="https://img.shields.io/badge/discord-%2312100E.svg?&style=for-the-badge&logo=discord&logoColor=white&color=black" /></a>
     <a href="https://stackoverflow.com/users/16832575"><img src="https://img.shields.io/badge/stackoverflow-%2312100E.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white&color=black" /></a></p>
-    <h3 align="center">Um jovem programador em aprendizado.</h3>
+    
 </p>
 
 <p align="center">
