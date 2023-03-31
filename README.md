@@ -14,7 +14,7 @@
 <p align="center">
 <a href="https://github.com/pedronicolasg">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=pedronicolasg&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"><br>
-    <img src="https://komarev.com/ghpvc/?username=pedronicolasg&color=000000&style=flat-square" /><br>
+    <img src="https://komarev.com/ghpvc/?username=pedronicolasg&color=grey&style=flat-square" /><br>
     <img align="center" src="https://github-profile-trophy.vercel.app/?username=pedronicolasg&theme=onestar&no-frame=true&no-bg=true" />
 </a>
 </p>
