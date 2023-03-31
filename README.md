@@ -32,5 +32,5 @@
 
 <h3 align="left">Linguagens e ferramentas:</h3>
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,cs,arduino,js,nodejs,react,electron,tailwind" />
+    <img src="https://skillicons.dev/icons?i=html,css,cs,arduino,js,nodejs,react,electron,tailwind&perline=8" />
 </p>
