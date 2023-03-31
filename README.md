@@ -1,10 +1,20 @@
-<h1 align="center">Olá 👋, eu sou o Nícolas!</h1>
-<h3 align="center">Um jovem programador em aprendizado.</h3>
-<p align="center"><a href="https://github.com/pedronicolasg">
+<p align="center">
+    <img src="https://github.com/pedronicolasg/pedronicolasg/blob/main/img/topbanner.png?raw=true" />
+    <h1 align="center">Olá 👋, eu sou o Nícolas!</h1>
+    <h3 align="center">Um jovem programador em aprendizado.</h3>
+</p>
+
+<p align="center">
+<a href="https://github.com/pedronicolasg">
     <img src="https://github-stats-alpha.vercel.app/api?username=pedronicolasg&cc=22272e&tc=37BCF6&ic=fff&bc=0000"><br>
-    <img src="https://komarev.com/ghpvc/?username=pedronicolasg&label=Profile%20views&color=0e75b6&style=flat" alt="pedronicolasg" />
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=pedronicolasg&theme=onestar&no-frame=true&no-bg=true" />
 </a>
 </p>
+
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="345" alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedronicolasg&theme=tokyonight&show_icons=true&locale=en">
+    
+</a>
 
 - 🔭 Atualmente estou trabalhando no meu [portfólio](https://github.com/pedronicolasg/pedronicolas-portfolio)
 
@@ -26,5 +36,3 @@
 <p align="left">
     <img src="https://skillicons.dev/icons?i=html,css,cs,arduino,js,nodejs,react,electron,tailwind" />
 </p>
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedronicolasg&theme=tokyonight&show_icons=true&locale=en" alt="pedronicolasg" /></p>
