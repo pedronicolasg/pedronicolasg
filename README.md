@@ -8,7 +8,6 @@
     <a href="https://www.twitch.tv/pedronicolasg"><img src="https://img.shields.io/badge/twitch-%2312100E.svg?&style=for-the-badge&logo=twitch&logoColor=white&color=black" /></a>
     <a href="https://discord.gg/NugmkDfvuj"><img src="https://img.shields.io/badge/discord-%2312100E.svg?&style=for-the-badge&logo=discord&logoColor=white&color=black" /></a>
     <a href="https://stackoverflow.com/users/16832575"><img src="https://img.shields.io/badge/stackoverflow-%2312100E.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white&color=black" /></a></p>
-    
 </p>
 
 <p align="center">
