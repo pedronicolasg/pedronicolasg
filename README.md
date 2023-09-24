@@ -35,7 +35,3 @@
 <p align="left">
     <img src="https://skillicons.dev/icons?i=html,css,cs,arduino,js,nodejs,bots,react,electron,tailwind&perline=8" />
 </p>
-
-<p align="center">
-<img src="https://github.com/pedronicolasg/pedronicolasg/blob/output/github-contribution-grid-snake.svg" />
-</p>
