@@ -6,7 +6,7 @@
     <a href="https://instagram.com/pedronicolasg"><img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" /></a>
     <a href="https://www.youtube.com/@NicolasDEV"><img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=black" /></a>
     <a href="https://www.twitch.tv/pedronicolasg"><img src="https://img.shields.io/badge/twitch-%2312100E.svg?&style=for-the-badge&logo=twitch&logoColor=white&color=black" /></a>
-    <a href="https://discord.gg/Ft6GywSAme"><img src="https://img.shields.io/badge/discord-%2312100E.svg?&style=for-the-badge&logo=discord&logoColor=white&color=black" /></a>
+    <a href="https://discord.gg/ctAr5rRCWQ"><img src="https://img.shields.io/badge/discord-%2312100E.svg?&style=for-the-badge&logo=discord&logoColor=white&color=black" /></a>
     <a href="https://stackoverflow.com/users/16832575"><img src="https://img.shields.io/badge/stackoverflow-%2312100E.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white&color=black" /></a></p>
 </p>
 
@@ -23,13 +23,13 @@
     
 </a>
 
-- 🔭 Atualmente estou trabalhando no meu [portfólio](https://github.com/pedronicolasg/pedronicolas-portfolio)
+- 🔭 Atualmente estou trabalhando no [Resonance](https://github.com/pedronicolasg/Resonance)
 
-- 🌱 No momento estou estudando **Next.js**
+- 🌱 No momento estou estudando **NodeJS**
 
-- 💬 Pergunte-me sobre **Arduino, Csharp, Node.js**
+- 💬 Pergunte-me sobre **Arduino, Csharp, NodeJS**
 
-- 📫 Como entrar em contato comigo **nicolasdevcontato@gmail.com**
+- 📫 Como entrar em contato comigo **nicolasdevcontato@proton.me**
 
 <h3 align="left">Linguagens e ferramentas:</h3>
 <p align="left">
