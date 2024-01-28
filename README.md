@@ -26,7 +26,7 @@
 
 - 🔭 Atualmente estou trabalhando no [Resonance](https://github.com/pedronicolasg/Resonance)
 
-- 🌱 No momento estou estudando **NodeJS**
+- 🌱 No momento estou cursando informática na [EP](https://www.instagram.com/eparacati/)
 
 - 💬 Pergunte-me sobre **Arduino, Csharp, NodeJS**
 
