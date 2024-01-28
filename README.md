@@ -1,5 +1,4 @@
 <p align="center">
-    <img src="https://github.com/pedronicolasg/pedronicolasg/blob/main/img/topbanner.png?raw=true" />
     <h1 align="center">Olá 👋, eu sou o Nícolas!</h1>
     <h3 align="center">Um jovem programador em aprendizado.</h3>
     <p align="center">
