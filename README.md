@@ -3,10 +3,12 @@
     <h1 align="center">Olá 👋, eu sou o Nícolas!</h1>
     <h3 align="center">Um jovem programador em aprendizado.</h3>
     <p align="center">
+    <a href="https://discord.com/users/489193379629105153" target="_blank">
+    <img alt="My Discord Account" src="https://discord.c99.nl/widget/theme-1/489193379629105153.png"  />
+    </a><br>
     <a href="https://instagram.com/pedronicolasg"><img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" /></a>
     <a href="https://www.youtube.com/@NicolasDEV"><img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=black" /></a>
     <a href="https://www.twitch.tv/pedronicolasg"><img src="https://img.shields.io/badge/twitch-%2312100E.svg?&style=for-the-badge&logo=twitch&logoColor=white&color=black" /></a>
-    <a href="https://discord.gg/ctAr5rRCWQ"><img src="https://img.shields.io/badge/discord-%2312100E.svg?&style=for-the-badge&logo=discord&logoColor=white&color=black" /></a>
     <a href="https://stackoverflow.com/users/16832575"><img src="https://img.shields.io/badge/stackoverflow-%2312100E.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white&color=black" /></a></p>
 </p>
 
