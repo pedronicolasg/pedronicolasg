@@ -22,7 +22,7 @@
     
 </a>
 
-- 🌱 No momento estou cursando informática na [EP](https://www.instagram.com/eparacati/)
+- 🌱 No momento estou cursando informática na [E.E.E.P. Profª Elsa Maria Porto Costa Lima](https://www.instagram.com/eparacati/)
 
 - 💬 Pergunte-me sobre **Arduino, Csharp, NodeJS**
 
