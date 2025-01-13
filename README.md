@@ -7,14 +7,11 @@
     </a><br>
 </p>
 <p align="center">
-<a href="https://github.com/pedronicolasg">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=pedronicolasg&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"><br>
-    <a href="https://instagram.com/pedronicolasg"><img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" /></a>
+    <a href="https://instagram.com/pedronicolasg"><img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=black&color=white" /></a>
     <a href="https://www.youtube.com/@NicolasDEV"><img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=red" /></a>
     <a href="https://www.linkedin.com/in/pedronicolasg/"><img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=blue" /></a>
     <a href="https://www.twitch.tv/pedronicolasg"><img src="https://img.shields.io/badge/twitch-%2312100E.svg?&style=for-the-badge&logo=twitch&logoColor=white&color=purple" /></a>
     <a href="https://stackoverflow.com/users/16832575"><img src="https://img.shields.io/badge/stackoverflow-%2312100E.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white&color=black" /></a></p>
-</a>
 </p>
 
 <a target="_blank" align="center">
@@ -24,7 +21,7 @@
 
 - 🌱 No momento estou cursando informática na [E.E.E.P. Profª Elsa Maria Porto Costa Lima](https://www.instagram.com/eparacati/)
 
-- 💬 Pergunte-me sobre **Arduino, Csharp, NodeJS**
+- 💬 Pergunte-me sobre **Arduino, Csharp, NodeJS, PHP**
 
 - 📫 Como entrar em contato comigo **nicolasdevcontato@proton.me**
 
