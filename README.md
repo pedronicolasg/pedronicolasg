@@ -1,31 +1,53 @@
+<h1 align="center">Olá 👋, eu sou o Nícolas</h1>
+<h3 align="center">Programador em formação e entusiasta de tecnologia</h3>
+
 <p align="center">
-    <h1 align="center">Olá 👋, eu sou o Nícolas!</h1>
-    <h3 align="center">Um jovem programador em aprendizado.</h3>
-    <p align="center">
-    <a href="https://discord.com/users/489193379629105153" target="_blank">
-    <img alt="My Discord Account" src="https://discord.c99.nl/widget/theme-1/489193379629105153.png"  />
-    </a><br>
+  <a href="https://discord.com/users/489193379629105153" target="_blank">
+    <img 
+      alt="Discord Status" 
+      src="https://discord.c99.nl/widget/theme-1/489193379629105153.png"
+    />
+  </a>
+<br>
+  <a href="https://instagram.com/pedronicolasg">
+    <img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=black" />
+  </a>
+  <a href="https://www.youtube.com/@NicolasDEV">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/pedronicolasg/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.twitch.tv/pedronicolasg">
+    <img src="https://img.shields.io/badge/Twitch-purple?style=for-the-badge&logo=twitch&logoColor=white" />
+  </a>
+  <a href="https://stackoverflow.com/users/16832575">
+    <img src="https://img.shields.io/badge/StackOverflow-black?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+  </a>
 </p>
-<p align="center">
-    <a href="https://instagram.com/pedronicolasg"><img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=black&color=white" /></a>
-    <a href="https://www.youtube.com/@NicolasDEV"><img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=red" /></a>
-    <a href="https://www.linkedin.com/in/pedronicolasg/"><img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=blue" /></a>
-    <a href="https://www.twitch.tv/pedronicolasg"><img src="https://img.shields.io/badge/twitch-%2312100E.svg?&style=for-the-badge&logo=twitch&logoColor=white&color=purple" /></a>
-    <a href="https://stackoverflow.com/users/16832575"><img src="https://img.shields.io/badge/stackoverflow-%2312100E.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white&color=black" /></a></p>
-</p>
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="345" alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedronicolasg&theme=gotham&show_icons=true&locale=en">
-    
-</a>
+---
 
-- 🌱 No momento estou cursando informática na [E.E.E.P. Profª Elsa Maria Porto Costa Lima](https://www.instagram.com/eparacati/)
+### 🚀 Sobre mim
 
-- 💬 Pergunte-me sobre **Arduino, Csharp, NodeJS, PHP**
+- 🌱 Atualmente curso **Informática** na  
+  **[E.E.E.P. Profª Elsa Maria Porto Costa Lima](https://www.instagram.com/eparacati/)**
+- 💬 Tenho interesse e experiência com **Arduino, C#, Node.js e PHP**
+- 🎯 Busco evoluir constantemente como desenvolvedor, explorando backend, automação e hardware
+- 📫 Contato: **nicolasdevcontato@proton.me**
 
-- 📫 Como entrar em contato comigo **nicolasdevcontato@proton.me**
+---
 
-<h3 align="left">Linguagens e ferramentas:</h3>
+### 🛠️ Linguagens e Ferramentas
+
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,php,js,nodejs,tailwind,bots,cs,arduino&perline=8" />
+  <img 
+  src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,vite,react,next,nodejs,express,nest,bun,php,java,kotlin,cs,unity,electron,arduino,mysql,mongodb,supabase,postman,ubuntu&perline=12" 
+  />
+</p>
+
+---
+
+<p align="center">
+  <em>“Aprender todos os dias é o que transforma curiosidade em habilidade.”</em>
 </p>
