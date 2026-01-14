@@ -12,7 +12,7 @@
   <a href="https://instagram.com/pedronicolasg">
     <img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=black" />
   </a>
-  <a href="https://www.youtube.com/@NicolasDEV">
+  <a href="https://www.youtube.com/@pedronicolasgs">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/pedronicolasg/">
