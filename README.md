@@ -9,7 +9,7 @@
     />
   </a>
 <br>
-  <a href="https://instagram.com/pedronicolasg">
+  <a href="https://instagram.com/pedro.nicolasg">
     <img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=black" />
   </a>
   <a href="https://www.youtube.com/@pedronicolasgs">
